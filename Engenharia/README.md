@@ -5,16 +5,4 @@
 3) usar uma liguagem de dificil entendimento para ter melhor rendimento no software ou usar uma linguagem facil para melhor dessenvolvimento,fazer um codigo mais abrangente mas mais lento ou codigo mais focado mas menos abrangemte,um codigo com muita seguranca mas dificil acesso ou codigo sem muita seguranca mas de facil acesso
 
 4) e nessesario apresentar algo funcional do que partes de um codigo, faz que o cliente entenda para onde o projeto esta caminhando.
-Teste1
-Teste2
-Teste3
-Teste4
-Teste5
-Teste6
-Teste7
-Teste8
-Teste9
-Teste10
-Teste11
-Teste12
-Teste13
+Testa denovo a branch ne, sexta feira, play tv, nois ta como?? não recolhe. Ai caralho, ta mó frio, nossa!! ta gostoso não tá?? Ai vem com pix caralho. Hoje nois ta como?? Xambão, botando pra poca, ai caraLHO * voz grossa* pega
